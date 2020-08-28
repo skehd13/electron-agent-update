@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/skehd13/electron-agent-update/releases/download/1.0.6",
-    "install": "https://github.com/skehd13/electron-agent-update/releases/download/1.0.6/U+KioskAgentApp.Setup.1.0.6.exe",
-    "version": "1.0.6"
+    "update": "https://github.com/skehd13/electron-agent-update/releases/download/1.0.7",
+    "install": "https://github.com/skehd13/electron-agent-update/releases/download/1.0.7/U+KioskAgentApp.Setup.1.0.7.exe",
+    "version": "1.0.7"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/skehd13/electron-agent-update/releases/download/darwin-x64-prod-v0.0.0/release.json",
