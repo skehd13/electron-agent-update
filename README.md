@@ -8,4 +8,7 @@
 - update2.json => rel 1.0.x
 - update4.json => led-rel 2.0.x
 
+- update7.json => rel-test 0.4.x
+- update8.json => led-rel-test 0.5.x
+
 - moduleUpdate.json => module test
