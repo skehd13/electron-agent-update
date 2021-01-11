@@ -13,5 +13,6 @@
 
 - update9.json => untact-dev 0.6.x
 - update10.json => untact-test 0.7.x
+- update11.json => untact-rel 3.0.x
 
 - moduleUpdate.json => module test
