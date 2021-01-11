@@ -11,4 +11,7 @@
 - update7.json => rel-test 0.4.x
 - update8.json => led-rel-test 0.5.x
 
+- update9.json => untact-dev 0.6.x
+- update10.json => untact-test 0.7.x
+
 - moduleUpdate.json => module test
