@@ -1,7 +1,7 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/skehd13/electron-agent-update/releases/download/0.8.5",
-    "install": "https://github.com/skehd13/electron-agent-update/releases/download/0.8.5/U+KioskAgentUntactRelTestApp.Setup.0.8.5.exe",
-    "version": "0.8.5"
+    "update": "https://github.com/skehd13/electron-agent-update/releases/download/0.8.6",
+    "install": "https://github.com/skehd13/electron-agent-update/releases/download/0.8.6/U+KioskAgentUntactRelTestApp.Setup.0.8.6.exe",
+    "version": "0.8.6"
   }
 }
