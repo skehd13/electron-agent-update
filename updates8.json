@@ -1,7 +1,7 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/skehd13/electron-agent-update/releases/download/0.5.29",
-    "install": "https://github.com/skehd13/electron-agent-update/releases/download/0.5.29/DoorderLgKioskRelTestApp.Setup.0.5.29.exe",
-    "version": "0.5.29"
+    "update": "https://github.com/skehd13/electron-agent-update/releases/download/0.5.30",
+    "install": "https://github.com/skehd13/electron-agent-update/releases/download/0.5.30/DoorderLgKioskRelTestApp.Setup.0.5.30.exe",
+    "version": "0.5.30"
   }
 }
